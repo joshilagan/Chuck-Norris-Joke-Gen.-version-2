@@ -1,6 +1,13 @@
 # CHUCK NORRIS JOKES
 
 **Description:**
+This Chuck Norris Jokes Generator is an improved version of the first one.
+
+**New Features:**
+- This one utilizes the use `.then` to handle the promise and `.catch` to handle the error.
+- It also automatically loads a joke upon opening the joke generator web app.
+
+**Old Features:**
 
 - Upon clicking the `Get Another Joke` it generates a Chuck Norris Joke that is displayed in the HTML DIV.
 
